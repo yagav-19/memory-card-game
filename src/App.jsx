@@ -96,7 +96,7 @@ export default function App() {
 
       {matched.length === cards.length && cards.length > 0 && (
         <p className="mt-6 text-green-400 text-xl font-bold">
-          🎉 All humans matched!
+          🎉 All  matched!
         </p>
       )}
 
