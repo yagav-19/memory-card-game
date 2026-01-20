@@ -63,7 +63,7 @@ export default function App() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-indigo-950 via-purple-900 to-slate-950 flex flex-col items-center justify-center p-4">
       <h1 className="text-4xl font-extrabold mb-4 text-pink-400">
-        🧠 Humanoid Memory Game
+        🦫 Memory Game
       </h1>
 
       <div className="mb-6 text-indigo-200">
