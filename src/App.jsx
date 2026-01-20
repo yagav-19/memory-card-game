@@ -88,7 +88,7 @@ export default function App() {
                 ${isMatched ? "opacity-40" : ""}
               `}
             >
-              {flipped ? card.value : "❓"}
+              {flipped ? card.value : "🐾"}
             </button>
           );
         })}
